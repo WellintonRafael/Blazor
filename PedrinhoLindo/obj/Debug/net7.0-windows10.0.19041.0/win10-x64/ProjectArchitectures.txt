@@ -1,1 +1,1 @@
-C:\WellintonProjetos\PedrinhoLindo\PedrinhoLindo\PedrinhoLindo.csproj;x64
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\PedrinhoLindo.csproj;x64

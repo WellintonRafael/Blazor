@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WellintonProjetos\\PedrinhoLindo\\PedrinhoLindo\\PedrinhoLindo.csproj": {}
+    "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj": {}
   },
   "projects": {
-    "C:\\WellintonProjetos\\PedrinhoLindo\\PedrinhoLindo\\PedrinhoLindo.csproj": {
+    "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WellintonProjetos\\PedrinhoLindo\\PedrinhoLindo\\PedrinhoLindo.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj",
         "projectName": "PedrinhoLindo",
-        "projectPath": "C:\\WellintonProjetos\\PedrinhoLindo\\PedrinhoLindo\\PedrinhoLindo.csproj",
-        "packagesPath": "C:\\Users\\agger\\.nuget\\packages\\",
-        "outputPath": "C:\\WellintonProjetos\\PedrinhoLindo\\PedrinhoLindo\\obj\\",
+        "projectPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\agger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -29,7 +29,6 @@
           "net7.0-windows10.0.19041.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -66,6 +65,10 @@
               "version": "[7.0.81, )",
               "autoReferenced": true
             },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -94,6 +97,22 @@
               "target": "Package",
               "version": "[7.0.81, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.5, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -149,6 +168,10 @@
               "target": "Package",
               "version": "[1.7.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -189,6 +212,10 @@
               "version": "[7.0.81, )",
               "autoReferenced": true
             },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -217,6 +244,26 @@
               "target": "Package",
               "version": "[7.0.81, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -257,6 +304,10 @@
               "version": "[7.0.81, )",
               "autoReferenced": true
             },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -285,6 +336,26 @@
               "target": "Package",
               "version": "[7.0.81, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -325,6 +396,10 @@
               "target": "Package",
               "version": "[7.0.81, )",
               "autoReferenced": true
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -370,6 +445,26 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.provider.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [

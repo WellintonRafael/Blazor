@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 using PedrinhoLindo.Data;
+using PedrinhoLindo.Service;
 
 namespace PedrinhoLindo;
 
@@ -21,7 +22,7 @@ public static class MauiProgram
 		builder.Services.AddBlazorWebViewDeveloperTools();
 		builder.Logging.AddDebug();
 #endif
-
+		builder.Services.AddSingleton<IStudentService, StudentService>();
 		builder.Services.AddSingleton<WeatherForecastService>();
 
 		return builder.Build();

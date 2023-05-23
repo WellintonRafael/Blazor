@@ -1,46 +1,73 @@
-﻿@page "/fetchdata"
+﻿@page "/ListOfStudents"
 
 @using PedrinhoLindo.Data
-@inject WeatherForecastService ForecastService
+@using PedrinhoLindo.Models;
+@using PedrinhoLindo.Service;
 
-<h1>Weather forecast</h1>
+@inject IStudentService StudentService
+@inject NavigationManager NavManager
+
+<h1>List of Students</h1>
 
 <p>This component demonstrates fetching data from a service.</p>
 
-@if (forecasts == null)
+@if (students == null)
 {
     <p><em>Loading...</em></p>
 }
 else
 {
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Temp. (C)</th>
-                <th>Temp. (F)</th>
-                <th>Summary</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var forecast in forecasts)
-            {
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
                 <tr>
-                    <td>@forecast.Date.ToShortDateString()</td>
-                    <td>@forecast.TemperatureC</td>
-                    <td>@forecast.TemperatureF</td>
-                    <td>@forecast.Summary</td>
+                    <th>Name</th>
+                    <th>E-mail</th>
+                    <th>Gender</th>
                 </tr>
-            }
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+                @foreach (var student in students)
+                {
+                    <tr>
+                        <td>@student.Name</td>
+                        <td>@student.Email</td>
+                        <td>@student.Gender</td>
+                        <td>
+                            <button type="submit" @onclick="@(() => EditStudent(student.Id))" class="mt-2 btn btn-primary">Edit</button>
+                        </td>
+                        <td>
+                            <button type="submit" @onclick="@(()=> DeleteStudent(student))" class="btn btn-primary">Delete</button>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>    
 }
 
 @code {
-    private WeatherForecast[] forecasts;
+    private List<StudentModel> students;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+        students = await StudentService.GetAllStudents();
+    }
+
+    private async void DeleteStudent(StudentModel student)
+    {
+        var response = await StudentService.DeleteStudent(student);
+
+        if (response > 0)
+        {
+            await OnInitializedAsync();
+            this.StateHasChanged();
+        }
+    }
+
+    private void EditStudent(int studentId)
+    {
+        NavManager.NavigateTo($"updateStudent/{studentId}");
     }
 }

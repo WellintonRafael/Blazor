@@ -1,0 +1,105 @@
+﻿@page "/addStudent"
+@page "/updateStudent/{StudentId:int}"
+
+@using PedrinhoLindo.Service;
+@using PedrinhoLindo.Models;
+
+@inject IStudentService StudentService
+
+<h3>AddUpdateStudent</h3>
+
+<div class="form-group">
+	<label>Name</label>
+	<input @bind="_name" class="form-control" placeholder="Your Name" />
+</div>
+
+<div class="mt2 form-group">
+	<label>Email Adress</label>
+	<input @bind="_email" type="email" class="form-control" placeholder="Your Email">
+</div>
+
+<div class="mt-2 form-group">
+	<label>Gender</label>
+	<div class="d-flex flex-row">
+		<div class="col-6 d-flex justify-content-between">
+			<div class="form-check">
+				<input @onchange="@(()=> SetGender("Male"))" checked="@(_gender=="Male")" class="form-check-input" type="radio" name="flexRadioDefault">
+				<label class="form-check-label" form="flexRadioDefault1">
+					Male
+				</label>
+			</div>
+			<div class="form-check">
+				<input @onchange="@(()=> SetGender("Female"))" checked="@(_gender=="Female")" class="form-check-input" type="radio" name="flexRadioDefault">
+				<label class="form-check-label" form="flexRadioDefault2">
+					Female
+				</label>
+			</div>
+		</div>
+	</div>
+</div>
+
+<button @onclick="AddStudentRecord" type="submit" class="mt-2 btn btn-primary">Submit</button>
+
+@code {
+	[Parameter]
+	public int StudentId { get; set; }
+
+	private string _name;
+	private string _email;
+	private string _gender;
+
+
+	private void SetGender(string gender)
+	{
+		_gender = gender;
+	}
+
+	protected async override Task OnInitializedAsync()
+	{
+		if (StudentId > 0)
+		{
+			var currentStudent = await StudentService.GetStudentById(StudentId);
+
+			if (currentStudent != null)
+			{
+				_name = currentStudent.Name;
+				_email = currentStudent.Email;
+				_gender = currentStudent.Gender;
+			}
+		}
+	}
+
+	private async void AddStudentRecord()
+	{
+		var studentModel = new StudentModel
+			{
+				Id = StudentId,
+				Name = _name,
+				Email = _email,
+				Gender = _gender
+			};
+
+		int response = -1;
+
+		if (StudentId > 0)
+		{
+			response = await StudentService.UpdateStudent(studentModel);
+		}
+		else
+		{
+			response = await StudentService.AddStudent(studentModel);
+		}
+
+		if (response > 0)
+		{
+			_name = _email = _gender = "";
+			this.StateHasChanged();
+			await App.Current.MainPage.DisplayAlert("Record Saved", "Record Saved to Student Table", "Ok");
+		}
+
+		else
+			await App.Current.MainPage.DisplayAlert("Opps", "Something went wrong while adding record", "Ok");
+
+
+	}
+}
