@@ -1,17 +1,17 @@
 ﻿@page "/ListOfStudents"
 
-@using PedrinhoLindo.Data
+@using PedrinhoLindo.Data;
 @using PedrinhoLindo.Models;
 @using PedrinhoLindo.Service;
 
-@inject IStudentService StudentService
+@inject IFuncionarioService FuncionarioService
 @inject NavigationManager NavManager
 
 <h1>List of Students</h1>
 
 <p>This component demonstrates fetching data from a service.</p>
 
-@if (students == null)
+@if (funcionarios == null)
 {
     <p><em>Loading...</em></p>
 }
@@ -21,25 +21,27 @@ else
         <table class="table">
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>E-mail</th>
-                    <th>Gender</th>
+                    <th>Código</th>
+                    <th>Nome</th>
+                    <th>Login</th>
+                    <th>Senha</th>
                 </tr>
             </thead>
             <tbody>
-                @foreach (var student in students)
+                @foreach (var funcionario in funcionarios)
                 {
                     <tr>
-                        <td>@student.Name</td>
-                        <td>@student.Email</td>
-                        <td>@student.Gender</td>
-                        <td>
-                            <button type="submit" @onclick="@(() => EditStudent(student.Id))" class="mt-2 btn btn-primary">Edit</button>
-                        </td>
-                        <td>
-                            <button type="submit" @onclick="@(()=> DeleteStudent(student))" class="btn btn-primary">Delete</button>
+                        <td>@funcionario.Cod_funcionario</td>
+                        <td>@funcionario.Nome</td>
+                        <td>@funcionario.Login</td>
+                        <td>@funcionario.Senha</td>
+@*                        <td>
+                            <button type="submit" @onclick="@(() => EditFuncionario(funcionario.Cod_funcionario))" class="mt-2 btn btn-primary">Edit</button>
+                        </td>*@
+@*                        <td>
+                            <button type="submit" @onclick="@(()=> DeleteFuncionario(funcionario))" class="btn btn-primary">Delete</button>
 
-                        </td>
+                        </td>*@
                     </tr>
                 }
             </tbody>
@@ -48,16 +50,16 @@ else
 }
 
 @code {
-    private List<StudentModel> students;
+    private List<TB_FUNCIONARIOS> funcionarios;
 
     protected override async Task OnInitializedAsync()
     {
-        students = await StudentService.GetAllStudents();
+        funcionarios = await FuncionarioService.GetAllFuncionarios();
     }
 
-    private async void DeleteStudent(StudentModel student)
+    private async void DeleteFuncionario(TB_FUNCIONARIOS funcionario)
     {
-        var response = await StudentService.DeleteStudent(student);
+        var response = await FuncionarioService.DeleteFuncionario(funcionario);
 
         if (response > 0)
         {
@@ -66,8 +68,8 @@ else
         }
     }
 
-    private void EditStudent(int studentId)
+    private void EditFuncionario(string codFuncionario)
     {
-        NavManager.NavigateTo($"updateStudent/{studentId}");
+        NavManager.NavigateTo($"updateStudent/{codFuncionario}");
     }
 }

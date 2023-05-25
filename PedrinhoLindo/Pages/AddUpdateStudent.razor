@@ -1,10 +1,10 @@
-﻿@page "/addStudent"
+﻿@*@page "/addStudent"
 @page "/updateStudent/{StudentId:int}"
 
 @using PedrinhoLindo.Service;
 @using PedrinhoLindo.Models;
 
-@inject IStudentService StudentService
+@inject IFuncionarioService FuncionarioService
 
 <h3>AddUpdateStudent</h3>
 
@@ -42,11 +42,12 @@
 
 @code {
 	[Parameter]
-	public int StudentId { get; set; }
+	public string CodFuncionario { get; set; }
 
-	private string _name;
-	private string _email;
-	private string _gender;
+	private string _codFuncionario;
+	private string _nome;
+	private string _login;
+	private string _senha;
 
 
 	private void SetGender(string gender)
@@ -56,24 +57,24 @@
 
 	protected async override Task OnInitializedAsync()
 	{
-		if (StudentId > 0)
+		if (CodFuncionario != null)
 		{
-			var currentStudent = await StudentService.GetStudentById(StudentId);
+			var currentFuncionario = await FuncionarioService.GetFuncionarioByCod(CodFuncionario);
 
-			if (currentStudent != null)
+			if (currentFuncionario != null)
 			{
-				_name = currentStudent.Name;
-				_email = currentStudent.Email;
-				_gender = currentStudent.Gender;
+				_name = currentFuncionario.Nome;
+				_email = currentFuncionario.;
+				_gender = currentFuncionario.Gender;
 			}
 		}
 	}
 
 	private async void AddStudentRecord()
 	{
-		var studentModel = new StudentModel
+		var studentModel = new TB_FUNCIONARIOS
 			{
-				Id = StudentId,
+				Cod_funcionario = codFuncionario,
 				Name = _name,
 				Email = _email,
 				Gender = _gender
@@ -103,3 +104,4 @@
 
 	}
 }
+*@

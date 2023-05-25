@@ -1,11 +1,11 @@
-int anim nav_default_enter_anim 0x0
-int anim nav_default_exit_anim 0x0
-int anim nav_default_pop_enter_anim 0x0
-int anim nav_default_pop_exit_anim 0x0
-int animator nav_default_enter_anim 0x0
-int animator nav_default_exit_anim 0x0
-int animator nav_default_pop_enter_anim 0x0
-int animator nav_default_pop_exit_anim 0x0
-int integer config_navAnimTime 0x0
-int string nav_app_bar_navigate_up_description 0x0
-int string nav_app_bar_open_drawer_description 0x0
+int attr defaultNavHost 0x0
+int dimen sliding_pane_detail_pane_width 0x0
+int id nav_host_fragment_container 0x0
+int id sliding_pane_detail_container 0x0
+int id sliding_pane_layout 0x0
+int[] styleable DialogFragmentNavigator { 0x1010003 }
+int styleable DialogFragmentNavigator_android_name 0
+int[] styleable FragmentNavigator { 0x1010003 }
+int styleable FragmentNavigator_android_name 0
+int[] styleable NavHostFragment { 0x0 }
+int styleable NavHostFragment_defaultNavHost 0

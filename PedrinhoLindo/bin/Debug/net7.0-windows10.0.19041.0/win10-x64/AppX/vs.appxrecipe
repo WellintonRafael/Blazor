@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-22T22:37:08.621</Modified>
+      <Modified>2023-05-25T01:19:52.932</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-22T22:37:07.371</Modified>
+      <Modified>2023-05-25T00:16:24.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.runtimeconfig.json">
       <PackagePath>PedrinhoLindo.runtimeconfig.json</PackagePath>
-      <Modified>2023-05-20T20:01:54.202</Modified>
+      <Modified>2023-05-24T23:43:20.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.dll">
       <PackagePath>PedrinhoLindo.dll</PackagePath>
-      <Modified>2023-05-22T22:37:05.235</Modified>
+      <Modified>2023-05-25T01:19:50.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PedrinhoLindo.exe</PackagePath>
-      <Modified>2023-05-22T22:37:05.282</Modified>
+      <Modified>2023-05-25T01:19:50.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1015,7 +1015,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.deps.json">
       <PackagePath>PedrinhoLindo.deps.json</PackagePath>
-      <Modified>2023-05-22T22:37:08.324</Modified>
+      <Modified>2023-05-25T01:19:52.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.81\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1035,11 +1035,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PedrinhoLindo.styles.css">
       <PackagePath>wwwroot\PedrinhoLindo.styles.css</PackagePath>
-      <Modified>2023-05-20T18:24:36.400</Modified>
+      <Modified>2023-05-24T23:43:03.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\PedrinhoLindo.bundle.scp.css">
       <PackagePath>wwwroot\PedrinhoLindo.bundle.scp.css</PackagePath>
-      <Modified>2023-05-20T18:24:36.404</Modified>
+      <Modified>2023-05-24T23:43:04.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -1099,231 +1099,231 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.313</Modified>
+      <Modified>2023-05-24T23:43:15.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.316</Modified>
+      <Modified>2023-05-24T23:43:15.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.368</Modified>
+      <Modified>2023-05-24T23:43:15.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.371</Modified>
+      <Modified>2023-05-24T23:43:15.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.375</Modified>
+      <Modified>2023-05-24T23:43:16.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-05-20T18:24:36.190</Modified>
+      <Modified>2023-05-20T18:24:29.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-05-20T18:24:36.193</Modified>
+      <Modified>2023-05-24T23:43:16.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.194</Modified>
+      <Modified>2023-05-24T23:43:17.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.195</Modified>
+      <Modified>2023-05-24T23:43:17.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.196</Modified>
+      <Modified>2023-05-24T23:43:17.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.197</Modified>
+      <Modified>2023-05-24T23:43:17.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.198</Modified>
+      <Modified>2023-05-24T23:43:17.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.199</Modified>
+      <Modified>2023-05-24T23:43:16.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.199</Modified>
+      <Modified>2023-05-24T23:43:16.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.200</Modified>
+      <Modified>2023-05-24T23:43:16.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.201</Modified>
+      <Modified>2023-05-24T23:43:16.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.202</Modified>
+      <Modified>2023-05-24T23:43:16.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.203</Modified>
+      <Modified>2023-05-24T23:43:16.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.204</Modified>
+      <Modified>2023-05-24T23:43:16.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.204</Modified>
+      <Modified>2023-05-24T23:43:16.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.206</Modified>
+      <Modified>2023-05-24T23:43:16.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.206</Modified>
+      <Modified>2023-05-24T23:43:16.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.207</Modified>
+      <Modified>2023-05-24T23:43:16.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.208</Modified>
+      <Modified>2023-05-24T23:43:16.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.208</Modified>
+      <Modified>2023-05-24T23:43:16.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.209</Modified>
+      <Modified>2023-05-24T23:43:16.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.209</Modified>
+      <Modified>2023-05-24T23:43:16.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.210</Modified>
+      <Modified>2023-05-24T23:43:16.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.210</Modified>
+      <Modified>2023-05-24T23:43:16.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.211</Modified>
+      <Modified>2023-05-24T23:43:16.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.213</Modified>
+      <Modified>2023-05-24T23:43:16.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.214</Modified>
+      <Modified>2023-05-24T23:43:16.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.215</Modified>
+      <Modified>2023-05-24T23:43:16.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.215</Modified>
+      <Modified>2023-05-24T23:43:16.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.216</Modified>
+      <Modified>2023-05-24T23:43:16.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.217</Modified>
+      <Modified>2023-05-24T23:43:16.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.218</Modified>
+      <Modified>2023-05-24T23:43:16.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.219</Modified>
+      <Modified>2023-05-24T23:43:16.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.220</Modified>
+      <Modified>2023-05-24T23:43:16.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.221</Modified>
+      <Modified>2023-05-24T23:43:16.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.222</Modified>
+      <Modified>2023-05-24T23:43:16.736</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.223</Modified>
+      <Modified>2023-05-24T23:43:16.759</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.224</Modified>
+      <Modified>2023-05-24T23:43:16.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.224</Modified>
+      <Modified>2023-05-24T23:43:16.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.225</Modified>
+      <Modified>2023-05-24T23:43:16.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.226</Modified>
+      <Modified>2023-05-24T23:43:16.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.227</Modified>
+      <Modified>2023-05-24T23:43:16.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.229</Modified>
+      <Modified>2023-05-24T23:43:16.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.230</Modified>
+      <Modified>2023-05-24T23:43:16.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.294</Modified>
+      <Modified>2023-05-24T23:43:16.922</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.295</Modified>
+      <Modified>2023-05-24T23:43:16.958</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.297</Modified>
+      <Modified>2023-05-24T23:43:17.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.301</Modified>
+      <Modified>2023-05-24T23:43:16.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.303</Modified>
+      <Modified>2023-05-24T23:43:16.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.305</Modified>
+      <Modified>2023-05-24T23:43:16.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.306</Modified>
+      <Modified>2023-05-24T23:43:16.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-05-20T18:24:36.309</Modified>
+      <Modified>2023-05-24T23:43:16.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>

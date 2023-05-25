@@ -365,6 +365,7 @@ C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\De
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
@@ -400,9 +401,15 @@ C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\De
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
@@ -702,10 +709,3 @@ C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\De
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
-C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
-C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
-C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
-C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\PC\OneDrive\Área de Trabalho\Mentoria Maui\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
