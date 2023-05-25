@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj": {}
+    "C:\\WellintonProjetos\\Ponto\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj": {
+    "C:\\WellintonProjetos\\Ponto\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj",
+        "projectUniqueName": "C:\\WellintonProjetos\\Ponto\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj",
         "projectName": "PedrinhoLindo",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Mentoria Maui\\Blazor\\PedrinhoLindo\\obj\\",
+        "projectPath": "C:\\WellintonProjetos\\Ponto\\Blazor\\PedrinhoLindo\\PedrinhoLindo.csproj",
+        "packagesPath": "C:\\Users\\agger\\.nuget\\packages\\",
+        "outputPath": "C:\\WellintonProjetos\\Ponto\\Blazor\\PedrinhoLindo\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\agger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -29,6 +29,7 @@
           "net7.0-windows10.0.19041.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
