@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-25T12:34:01.576</Modified>
+      <Modified>2023-05-25T12:37:44.820</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-25T12:34:01.004</Modified>
+      <Modified>2023-05-25T12:37:44.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.runtimeconfig.json">
       <PackagePath>PedrinhoLindo.runtimeconfig.json</PackagePath>
-      <Modified>2023-05-25T12:30:17.325</Modified>
+      <Modified>2023-05-25T12:37:44.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.dll">
       <PackagePath>PedrinhoLindo.dll</PackagePath>
-      <Modified>2023-05-25T12:30:15.656</Modified>
+      <Modified>2023-05-25T12:37:42.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PedrinhoLindo.exe</PackagePath>
-      <Modified>2023-05-25T12:30:15.683</Modified>
+      <Modified>2023-05-25T12:37:42.958</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\agger\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1015,7 +1015,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.deps.json">
       <PackagePath>PedrinhoLindo.deps.json</PackagePath>
-      <Modified>2023-05-25T12:34:01.424</Modified>
+      <Modified>2023-05-25T12:37:44.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.81\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1035,11 +1035,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PedrinhoLindo.styles.css">
       <PackagePath>wwwroot\PedrinhoLindo.styles.css</PackagePath>
-      <Modified>2023-05-25T12:29:12.312</Modified>
+      <Modified>2023-05-25T12:37:36.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\PedrinhoLindo.bundle.scp.css">
       <PackagePath>wwwroot\PedrinhoLindo.bundle.scp.css</PackagePath>
-      <Modified>2023-05-25T12:29:12.313</Modified>
+      <Modified>2023-05-25T12:37:36.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -1099,231 +1099,231 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.306</Modified>
+      <Modified>2023-05-25T12:37:41.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.306</Modified>
+      <Modified>2023-05-25T12:37:41.974</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.307</Modified>
+      <Modified>2023-05-25T12:37:41.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.308</Modified>
+      <Modified>2023-05-25T12:37:42.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.309</Modified>
+      <Modified>2023-05-25T12:37:42.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-05-25T12:29:12.281</Modified>
+      <Modified>2023-05-25T12:29:09.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-05-25T12:29:12.282</Modified>
+      <Modified>2023-05-25T12:37:42.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.282</Modified>
+      <Modified>2023-05-25T12:37:42.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.283</Modified>
+      <Modified>2023-05-25T12:37:42.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.283</Modified>
+      <Modified>2023-05-25T12:37:42.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.283</Modified>
+      <Modified>2023-05-25T12:37:42.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.284</Modified>
+      <Modified>2023-05-25T12:37:42.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.284</Modified>
+      <Modified>2023-05-25T12:37:42.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.285</Modified>
+      <Modified>2023-05-25T12:37:42.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.285</Modified>
+      <Modified>2023-05-25T12:37:42.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.285</Modified>
+      <Modified>2023-05-25T12:37:42.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.287</Modified>
+      <Modified>2023-05-25T12:37:42.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.287</Modified>
+      <Modified>2023-05-25T12:37:42.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.287</Modified>
+      <Modified>2023-05-25T12:37:42.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.288</Modified>
+      <Modified>2023-05-25T12:37:42.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.288</Modified>
+      <Modified>2023-05-25T12:37:42.254</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.289</Modified>
+      <Modified>2023-05-25T12:37:42.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.289</Modified>
+      <Modified>2023-05-25T12:37:42.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.290</Modified>
+      <Modified>2023-05-25T12:37:42.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.290</Modified>
+      <Modified>2023-05-25T12:37:42.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.290</Modified>
+      <Modified>2023-05-25T12:37:42.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.291</Modified>
+      <Modified>2023-05-25T12:37:42.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.291</Modified>
+      <Modified>2023-05-25T12:37:42.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.291</Modified>
+      <Modified>2023-05-25T12:37:42.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.292</Modified>
+      <Modified>2023-05-25T12:37:42.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.292</Modified>
+      <Modified>2023-05-25T12:37:42.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.293</Modified>
+      <Modified>2023-05-25T12:37:42.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.293</Modified>
+      <Modified>2023-05-25T12:37:42.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.293</Modified>
+      <Modified>2023-05-25T12:37:42.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.294</Modified>
+      <Modified>2023-05-25T12:37:42.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.295</Modified>
+      <Modified>2023-05-25T12:37:42.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.295</Modified>
+      <Modified>2023-05-25T12:37:42.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.296</Modified>
+      <Modified>2023-05-25T12:37:42.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.296</Modified>
+      <Modified>2023-05-25T12:37:42.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.296</Modified>
+      <Modified>2023-05-25T12:37:42.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.297</Modified>
+      <Modified>2023-05-25T12:37:42.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.298</Modified>
+      <Modified>2023-05-25T12:37:42.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.298</Modified>
+      <Modified>2023-05-25T12:37:42.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.298</Modified>
+      <Modified>2023-05-25T12:37:42.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.299</Modified>
+      <Modified>2023-05-25T12:37:42.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.299</Modified>
+      <Modified>2023-05-25T12:37:42.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.300</Modified>
+      <Modified>2023-05-25T12:37:42.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.300</Modified>
+      <Modified>2023-05-25T12:37:42.387</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.300</Modified>
+      <Modified>2023-05-25T12:37:42.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.302</Modified>
+      <Modified>2023-05-25T12:37:42.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.302</Modified>
+      <Modified>2023-05-25T12:37:42.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.302</Modified>
+      <Modified>2023-05-25T12:37:42.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.303</Modified>
+      <Modified>2023-05-25T12:37:42.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.303</Modified>
+      <Modified>2023-05-25T12:37:42.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.304</Modified>
+      <Modified>2023-05-25T12:37:42.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.305</Modified>
+      <Modified>2023-05-25T12:37:42.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-05-25T12:29:12.305</Modified>
+      <Modified>2023-05-25T12:37:42.352</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
