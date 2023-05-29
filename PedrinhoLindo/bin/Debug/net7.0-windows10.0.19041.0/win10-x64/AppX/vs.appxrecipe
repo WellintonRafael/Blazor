@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-25T12:37:44.820</Modified>
+      <Modified>2023-05-29T12:38:42.655</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-25T12:37:44.484</Modified>
+      <Modified>2023-05-25T12:51:44.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.runtimeconfig.json">
       <PackagePath>PedrinhoLindo.runtimeconfig.json</PackagePath>
-      <Modified>2023-05-25T12:37:44.323</Modified>
+      <Modified>2023-05-25T12:51:44.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.dll">
       <PackagePath>PedrinhoLindo.dll</PackagePath>
-      <Modified>2023-05-25T12:37:42.947</Modified>
+      <Modified>2023-05-29T12:38:39.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PedrinhoLindo.exe</PackagePath>
-      <Modified>2023-05-25T12:37:42.958</Modified>
+      <Modified>2023-05-29T12:38:39.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\agger\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1015,7 +1015,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\WellintonProjetos\Ponto\Blazor\PedrinhoLindo\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PedrinhoLindo.deps.json">
       <PackagePath>PedrinhoLindo.deps.json</PackagePath>
-      <Modified>2023-05-25T12:37:44.683</Modified>
+      <Modified>2023-05-29T12:38:41.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.81\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
